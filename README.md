@@ -2,7 +2,7 @@
 
 
 - 👋 Olá eu sou Ricardo Pietta
-- 👍Meu email é ricardo.pietta@escola.pr.gov.br
+- 👍Meu [email](ricardo.pietta@escola.pr.gov.br)
 - 👀 Estou interessado em aprender sobre programção
 - 🌱 Estou interessado em programar jogos no Scratch, Github,
 
